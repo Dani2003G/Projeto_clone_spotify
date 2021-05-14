@@ -11,7 +11,7 @@
 </h1>
 
 <h3 align="center">
-    <a href="https://portfoliodanielalmeida.000webhostapp.com/projetos_udemy/Projetos_Bootstrap_5/Projeto_Spotify/index.html">Acessar demonstração</a>
+    <a href="https://portfoliodanielalmeida.000webhostapp.com/projetos_udemy/Projetos_Bootstrap_5/Projeto_Spotify/index.html" target="_blank">Acessar demonstração</a>
 </h3>
 
 ---

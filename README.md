@@ -10,10 +10,6 @@
     Site em um dipositivo pequeno
 </h1>
 
-<h3 align="center">
-    <a href="https://portfoliodanielalmeida.000webhostapp.com/projetos/projeto_spotify/" target="_blank">Acessar demonstração</a>
-</h3>
-
 ---
 
 ## 📋 Sobre
